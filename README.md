@@ -2,7 +2,7 @@
 
 
 
-# Git Hello Class
+# MCDA5510 | Git Hello Class
 ------------------------------------------------------------------------------------------
 ## Introduction
 ### Sameer Patel | sameer.patel@smu.ca | A00474445
