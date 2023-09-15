@@ -10,7 +10,7 @@
 ------------------------------------------------------------------------------------------
 ## Summary of the topic that brought us together
 ### Topic - Python
-#### The topic that we all clicked on was Python. We all had past experiences and projects working with Python. Compared to other programming languages (such as C, C++, Java), Python simply makes things easier, like skipping the semicolon (';') and avoiding the need for variable initialization, making troubleshooting straightforward, etc. It has a wide range of applications in web development, automation, game development, and more. The best part of the discussion was that we would prefer Python any day over any other technology.
+#### The topic that we all clicked on was Python. We all had past experiences and projects working with Python. Compared to other programming languages such as C, C++, and Java, Python simply makes things easier for a developer. From a Developer's POV, Python is comparitively easier to learn, use and has a lot of community support in terms of libraries. It is also quite versatile and has a wide range of applications in Web Development, Automation, Game Development, etc. The best part of the discussion was that we would prefer Python any day over any other Technology.
 ------------------------------------------------------------------------------------------
 ## List each person in the group( their name, where from and why they have chosen MCDA)
 
