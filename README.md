@@ -22,7 +22,7 @@
 * **Fun Fact**: Princeton had witnessed a UFO at the age of 16 while he was on a vacation in Qatar.
 
 ### 2. Pranay Malusare | Pune, India
-* **Reason behind joining MSCDA:** Pranay has completed his Bachelors of Engineering in Information Technology. During his undergrad, he got expsoure to Data Science and Analytics through his course work and assignments, which he found interesting. This is one the major reasons why he opted for MSCDA program at Saint Mary's.
+* **Reason behind joining MSCDA:** Pranay has completed his Bachelors of Engineering in Information Technology. During his undergrad, he got expsoure to Data Science and Analytics through his course work and assignments, which he found interesting. This is one of the major reasons why he opted for MSCDA program at Saint Mary's.
 
 * **Info About Similar Interest:** Despite being a fresher, Pranay has a great hold on Python. He has worked on various Python based projects which included development and automation.
 
