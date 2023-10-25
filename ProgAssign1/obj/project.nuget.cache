@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDusktui+ct6c2DZXp8rpMzIe5AksxSjnmrtCmYmCx8IDeZYSjcyRp4cY5G8hYyZ7ccKCcgMMmAtePI331ThHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sameer Patel\\OneDrive\\Desktop\\SMU\\5510 - Programming\\ASP_Assignment\\Assignment_1\\Assignment_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sameer Patel\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
